@@ -1,0 +1,10 @@
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\bin\Debug\oop_lab5-6_part_II.exe.config
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\bin\Debug\oop_lab5-6_part_II.exe
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\bin\Debug\oop_lab5-6_part_II.pdb
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5-6_part_II.csprojAssemblyReference.cache
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5_6_part_II.Form1.resources
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5_6_part_II.Properties.Resources.resources
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5-6_part_II.csproj.GenerateResource.cache
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5-6_part_II.csproj.CoreCompileInputs.cache
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5-6_part_II.exe
+C:\Users\laxma\source\repos\oop_lab5-6_part_II\oop_lab5-6_part_II\obj\Debug\oop_lab5-6_part_II.pdb

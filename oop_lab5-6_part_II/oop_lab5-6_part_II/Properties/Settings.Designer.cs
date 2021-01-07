@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace oop_lab6.Properties
+namespace oop_lab5_6_part_II.Properties
 {
 
 

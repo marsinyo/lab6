@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("oop_lab6")]
+[assembly: AssemblyTitle("oop_lab5-6_part_II")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("oop_lab6")]
+[assembly: AssemblyProduct("oop_lab5-6_part_II")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("126f7c4d-9806-4af9-b7cf-90f5583a725c")]
+[assembly: Guid("dda45239-d427-4576-b108-51cccbfde5b6")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
